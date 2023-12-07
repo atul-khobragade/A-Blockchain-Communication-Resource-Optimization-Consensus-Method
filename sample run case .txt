@@ -1,0 +1,9 @@
+$headers = @{
+    "Content-Type" = "application/json"
+}
+
+$body = @{
+    "data" = "very-important-data"
+} | ConvertTo-Json
+
+Invoke-WebRequest -Uri http://localhost:8080/preprepare -Method Post -Headers $headers -Body $body
