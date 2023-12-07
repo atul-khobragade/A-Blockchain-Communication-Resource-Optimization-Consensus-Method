@@ -74,4 +74,5 @@ Things to note.
 4. Results for the execution time were from testing on a Linux OS.
 
 
-``````
+## Contributers 
+Khobragade Atul Yashwant (B20CS027),Anirudh Bajaj (B20CS005), Diksha Jena (B20CS013), R. Amshu Naik (B20CS046), Seema (B20CS064), Tanisha Jain (B20CS093)
