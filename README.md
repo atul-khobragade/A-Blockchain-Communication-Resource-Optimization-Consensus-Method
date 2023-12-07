@@ -11,13 +11,11 @@ This is a modified version of PBFT consensus algorithm [[1]](https://pmg.csail.m
 <h2>Comparison of message complexity between CCRO
 and PBFT:</h2>
 
-<img src="<a href=" https:="" ibb.co="" n6q7wgc"="">
+
 
 <img src="https://i.ibb.co/pb6fm7y/image87.jpg" alt="image87" border="0">
 
-  
-[multiple picture upload](https://imgbb.com/)  
-" alt="project-screenshot" width=400 height=400/>
+
 There are a few types of byzantine faults:-
 1. Failure to return a result
 2. Respond with the wrong or misleading result
