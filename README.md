@@ -1,4 +1,4 @@
-# Comunication Consensus mechanism for resource optimization
+# Comunication Consensus mechanism for resource optimization CCRO
 
 ## Table of Contents
 1. Information
